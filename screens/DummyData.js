@@ -4,7 +4,7 @@ export const initialCurrentLocation = {
   streetName: "Kuching",
   gps: {
     latitude: 1.5496614931,
-    longnitude: 110.3638186691992
+    longitude: 110.3638186691992
   }
 }
 
@@ -66,7 +66,7 @@ export const resturantData = [
     duration: "30 - 45 min",
     location: {
       latitude: 1.53496614931,
-      longnitude: 110.3538186691992
+      longitude: 110.3538186691992
     },
     courier: {
       avater: images.avatar1
@@ -106,7 +106,7 @@ export const resturantData = [
     duration: "15 - 25 min",
     location: {
       latitude: 1.53496614931,
-      longnitude: 110.3538186691992
+      longitude: 110.3538186691992
     },
     courier: {
       avater: images.avatar1
@@ -146,7 +146,7 @@ export const resturantData = [
     duration: "10 - 15 min",
     location: {
       latitude: 1.53496614931,
-      longnitude: 110.3538186691992
+      longitude: 110.3538186691992
     },
     courier: {
       avater: images.avatar1

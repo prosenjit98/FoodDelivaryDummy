@@ -54,7 +54,7 @@ const Home = ({ navigation }) => {
         resturnats={resturants}
         categories={categories}
         navigation={navigation}
-        currentLocaition={currentLocaition} />
+        currentLocation={currentLocaition} />
     </SafeAreaView>
   )
 }
