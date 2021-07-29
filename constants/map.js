@@ -1,3 +1,6 @@
-const GOOGLE_API_KEY = "AIzaSyDuvzgOu9aFwGMwECqRY53r5tOlR15JB9o";
+
+import { GOOGLE_MAP_API } from "@env"
+
+const GOOGLE_API_KEY = GOOGLE_MAP_API;
 
 export default GOOGLE_API_KEY;

@@ -50,7 +50,7 @@ const OrderDelivary = ({ route, navigation }) => {
           <MapViewDirections
             origin={fromLocation}
             destination={toLocation}
-            apikey={"AIzaSyDuvzgOu9aFwGMwECqRY53r5tOlR15JB9o"}
+            apikey={GOOGLE_API_KEY}
             strokeWidth={5}
             strokeColor={COLORS.primary}
             optimizeWaypoints={true}
